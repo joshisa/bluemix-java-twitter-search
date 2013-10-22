@@ -18,7 +18,7 @@ Using the terminal/command line interface:
         \> **gem install cf**
 
 
--   **Overview of the app:** This is a NodeJS app that uses the following cloud services:
+-   **Overview of the app:** This is a Java app that uses the following cloud services:
     -   Company Text Analytics Service
     -   Name Text Analytics Service
 
@@ -38,7 +38,7 @@ Using the terminal/command line interface:
             [More information on how to register the app with Twitter](registerTwitter.md)
 
         -   **Chart.js:**
-            The graph is generated using the Chart.js library, which is under MIT license. The Chart.js library has been included with the app. The library is located in the public/javascripts folder under the node-app directory. 
+            The graph is generated using the Chart.js library, which is under MIT license. The Chart.js library has been included with the app. The library is located in the WebContent/js folder in the WAR file. 
 
     -
 
